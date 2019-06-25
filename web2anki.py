@@ -93,7 +93,7 @@ if __name__ == "__main__":
           + "and front-format and back-format are HTML strings describing "
           + "the layout of the card.")
     print("More information can be found at "
-          + "https://github.com/brandon-gong/anki2web")
+          + "https://github.com/brandon-gong/web2anki")
     sys.exit(1)
 
   print("Attempting to connect to server at " + sys.argv[1] + "...")

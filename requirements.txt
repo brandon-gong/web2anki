@@ -1,0 +1,4 @@
+statistics
+requests
+bs4
+genanki
